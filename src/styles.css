@@ -1,3 +1,5 @@
+/* @import '~normalize.css'; */
+
 *,
 *::after,
 *::before {
@@ -9,6 +11,7 @@ html {
 }
 
 body {
+  margin: 0;
   font-family: "Nunito", "Arial", "Helvetica", sans-serif;
 }
 
